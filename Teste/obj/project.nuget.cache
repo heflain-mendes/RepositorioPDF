@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BJmppwpfK/A9UsG5vomqmZXhtA/1dLnR6GufINqWjYSXtU21El8tY20GCPHmKUyjDX7MJDtzugqr/hMT6P1VOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Heflain\\Documents\\Pessoal\\relatorioPDF\\Teste\\Teste.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Heflain\\.nuget\\packages\\questpdf\\2024.3.2\\questpdf.2024.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}

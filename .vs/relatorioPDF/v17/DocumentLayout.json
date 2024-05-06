@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Heflain\\Documents\\Pessoal\\relatorioPDF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DDBB5CF-5836-4B5A-85A6-A103A77481D6}|Teste\\Teste.csproj|c:\\users\\heflain\\documents\\pessoal\\relatoriopdf\\teste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DDBB5CF-5836-4B5A-85A6-A103A77481D6}|Teste\\Teste.csproj|solutionrelative:teste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A38FC8-5307-4990-9AC0-23D9E29D6E93}|relatorioPDF\\relatorioPDF.csproj|c:\\users\\heflain\\documents\\pessoal\\relatoriopdf\\relatoriopdf\\reporthandlerfactories\\reporthandlerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A38FC8-5307-4990-9AC0-23D9E29D6E93}|relatorioPDF\\relatorioPDF.csproj|solutionrelative:relatoriopdf\\reporthandlerfactories\\reporthandlerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A38FC8-5307-4990-9AC0-23D9E29D6E93}|relatorioPDF\\relatorioPDF.csproj|c:\\users\\heflain\\documents\\pessoal\\relatoriopdf\\relatoriopdf\\reporthandler\\ibgehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A38FC8-5307-4990-9AC0-23D9E29D6E93}|relatorioPDF\\relatorioPDF.csproj|solutionrelative:relatoriopdf\\reporthandler\\ibgehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A38FC8-5307-4990-9AC0-23D9E29D6E93}|relatorioPDF\\relatorioPDF.csproj|c:\\users\\heflain\\documents\\pessoal\\relatoriopdf\\relatoriopdf\\reporthandler\\cnuchandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A38FC8-5307-4990-9AC0-23D9E29D6E93}|relatorioPDF\\relatorioPDF.csproj|solutionrelative:relatoriopdf\\reporthandler\\cnuchandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DDBB5CF-5836-4B5A-85A6-A103A77481D6}|Teste\\Teste.csproj|c:\\users\\heflain\\documents\\pessoal\\relatoriopdf\\teste\\cellextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DDBB5CF-5836-4B5A-85A6-A103A77481D6}|Teste\\Teste.csproj|solutionrelative:teste\\cellextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportHandlerFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Heflain\\Documents\\Pessoal\\relatorioPDF\\relatorioPDF\\ReportHandlerFactories\\ReportHandlerFactory.cs",
+              "RelativeDocumentMoniker": "relatorioPDF\\ReportHandlerFactories\\ReportHandlerFactory.cs",
+              "ToolTip": "C:\\Users\\Heflain\\Documents\\Pessoal\\relatorioPDF\\relatorioPDF\\ReportHandlerFactories\\ReportHandlerFactory.cs",
+              "RelativeToolTip": "relatorioPDF\\ReportHandlerFactories\\ReportHandlerFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T02:34:26.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CNUCHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Heflain\\Documents\\Pessoal\\relatorioPDF\\relatorioPDF\\ReportHandler\\CNUCHandler.cs",
+              "RelativeDocumentMoniker": "relatorioPDF\\ReportHandler\\CNUCHandler.cs",
+              "ToolTip": "C:\\Users\\Heflain\\Documents\\Pessoal\\relatorioPDF\\relatorioPDF\\ReportHandler\\CNUCHandler.cs",
+              "RelativeToolTip": "relatorioPDF\\ReportHandler\\CNUCHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T02:28:45.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBGEHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Heflain\\Documents\\Pessoal\\relatorioPDF\\relatorioPDF\\ReportHandler\\IBGEHandler.cs",
+              "RelativeDocumentMoniker": "relatorioPDF\\ReportHandler\\IBGEHandler.cs",
+              "ToolTip": "C:\\Users\\Heflain\\Documents\\Pessoal\\relatorioPDF\\relatorioPDF\\ReportHandler\\IBGEHandler.cs",
+              "RelativeToolTip": "relatorioPDF\\ReportHandler\\IBGEHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T02:28:31.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CellExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Heflain\\Documents\\Pessoal\\relatorioPDF\\Teste\\CellExtension.cs",
+              "RelativeDocumentMoniker": "Teste\\CellExtension.cs",
+              "ToolTip": "C:\\Users\\Heflain\\Documents\\Pessoal\\relatorioPDF\\Teste\\CellExtension.cs",
+              "RelativeToolTip": "Teste\\CellExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T20:54:17.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Heflain\\Documents\\Pessoal\\relatorioPDF\\Teste\\Program.cs",
+              "RelativeDocumentMoniker": "Teste\\Program.cs",
+              "ToolTip": "C:\\Users\\Heflain\\Documents\\Pessoal\\relatorioPDF\\Teste\\Program.cs",
+              "RelativeToolTip": "Teste\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T20:49:10.703Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
